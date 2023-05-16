@@ -14,7 +14,11 @@ You can run this code throgh pygame.
     
 ![image](https://github.com/newoong/Modified_DstarLite/assets/94604584/99347dfa-1604-4038-8b76-c0a9653e844f)
 RED : obstacle
+
 BLUE : goal
+
 GREEN : start
+
 APRICOT : topography cost + obstacle around cost (color darkness proportional with cost)
+
 ARROW : current state
