@@ -12,5 +12,9 @@ You can run this code throgh pygame.
     original DstarLite : Only use k1,k2 value
     customized DstarLite : There are topology costs & obstacle around costs
     
-<img width="631" alt="image" src="https://github.com/newoong/Modified_DstarLite/assets/94604584/fe7c00d9-bb63-4d35-b24f-bcb44eec8b65">
-
+![image](https://github.com/newoong/Modified_DstarLite/assets/94604584/99347dfa-1604-4038-8b76-c0a9653e844f)
+RED : obstacle
+BLUE : goal
+GREEN : start
+APRICOT : topography cost + obstacle around cost (color darkness proportional with cost)
+ARROW : current state
