@@ -1,8 +1,10 @@
 # Modified_DstarLite
 This code is for Customized DstarLite Algorithm.
 
-Used this Algorithm in
-#### JCDE - A study on unmanned combat vehicle path planning for collision avoidance with enemy forces in dynamic situations
+#### A study on unmanned combat vehicle path planning for collision avoidance with enemy forces in dynamic situations
+#### Jisoo Ahn, Sewoong Jung(https://github.com/newoong), Hansom Kim, Ho-Jin Hwang, Hong-Bae Jun
+#### JCDE, 2023.
+
 https://academic.oup.com/jcde/article/10/6/2251/7395013
 
 ----------
