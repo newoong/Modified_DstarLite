@@ -1,5 +1,8 @@
 # Modified_DstarLite
 
+![image](https://github.com/newoong/Modified_DstarLite/assets/94604584/9120e2d1-f8cc-4c5b-85d1-c02a5801425c)
+
+
 #### A study on unmanned combat vehicle path planning for collision avoidance with enemy forces in dynamic situations  
  Jisoo Ahn, [Sewoong Jung](https://github.com/newoong), Hansom Kim, Ho-Jin Hwang, Hong-Bae Jun   
  JCDE, 2023.
