@@ -1,7 +1,13 @@
 # Modified_DstarLite
 This code is for Customized DstarLite Algorithm.
 
-You can run this code throgh pygame.
+Used this Algorithm in
+#### JCDE - A study on unmanned combat vehicle path planning for collision avoidance with enemy forces in dynamic situations
+https://academic.oup.com/jcde/article/10/6/2251/7395013
+
+----------
+
+You can run this code through pygame.
 
 - Modified
   1. Moving obstacle
